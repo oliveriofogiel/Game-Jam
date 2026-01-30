@@ -1,19 +1,28 @@
-[8892:11804:0129/205801.932:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8892:21168:0129/205801.997:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[8892:11804:0129/205802.068:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[8892:25224:0129/205805.073:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\alu765\Downloads\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\alu765\Downloads\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8892:25224:0129/205805.076:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\alu765\Downloads\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\alu765\Downloads\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8892:25224:0129/205805.078:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\alu765\Downloads\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\alu765\Downloads\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8892:25224:0129/205805.080:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\alu765\Downloads\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\alu765\Downloads\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8892:23492:0129/205805.985:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8892:23492:0129/205805.987:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21316:22896:0129/205806.353:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C8E480F795B2DB54319F9557BECDA2CB will be ignored
-[8892:6152:0129/205806.639:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[8892:11804:0129/205806.828:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[8892:11804:0129/205806.828:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[8892:11804:0129/205806.829:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[8892:11804:0129/205806.829:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[8892:6152:0129/205806.832:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[8892:25608:0129/205808.459:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\alu765\Downloads\GitHub\Game-Jam\Saved\webcache_6613_1\Default\GCM Store\Encryption: IO error: C:\Users\alu765\Downloads\GitHub\Game-Jam\Saved\webcache_6613_1\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[6724:24968:0129/210013.686:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-936D97E34500CB90AA00882A1B5A16C3 will be ignored
-[8892:11804:0129/214730.026:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[5908:4536:0129/230552.010:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5908:4536:0129/230552.323:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[5908:12540:0129/230552.626:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[5908:4536:0129/230553.005:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5908:12540:0129/230601.078:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5908:12540:0129/230601.082:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5908:12540:0129/230601.085:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5908:12540:0129/230601.087:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5908:9064:0129/230602.555:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5908:9064:0129/230602.557:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5908:9816:0129/230602.974:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\GCM Store\Encryption: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8984:11668:0129/230603.312:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-670E43819B6F7F1BAAFB368E40B9BF22 will be ignored
+[5908:16076:0129/230604.453:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[5908:16076:0129/230604.552:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[5908:4536:0129/230604.557:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[5908:4536:0129/230604.557:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[5908:4536:0129/230604.557:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[5908:4536:0129/230604.557:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[5908:16076:0129/230605.258:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[5908:16076:0129/230605.306:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[5908:16076:0129/230605.334:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[5908:16076:0129/230605.359:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[5908:16076:0129/230806.326:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[3732:7816:0129/230812.834:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[3732:7816:0129/230812.835:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5908:4536:0129/231107.186:ERROR:device_event_log_impl.cc(196)] [23:11:07.087] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[5908:4536:0129/233237.451:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[5908:4536:0129/235433.010:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
