@@ -1,2 +1,3 @@
-2026/01/29-18:07:40.346 53fc Creating DB C:\Users\alu765\Downloads\GitHub\Game-Jam\Saved\webcache_6613_1\Default\Local Storage\leveldb since it was missing.
-2026/01/29-18:07:40.364 53fc Reusing MANIFEST C:\Users\alu765\Downloads\GitHub\Game-Jam\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/29-18:47:14.831 6004 Reusing MANIFEST C:\Users\alu765\Downloads\GitHub\Game-Jam\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/29-18:47:14.836 6004 Recovering log #3
+2026/01/29-18:47:14.839 6004 Reusing old log C:\Users\alu765\Downloads\GitHub\Game-Jam\Saved\webcache_6613_1\Default\Local Storage\leveldb/000003.log 
