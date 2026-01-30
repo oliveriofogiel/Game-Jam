@@ -1,7 +1,1 @@
-2026/01/30-01:19:39.895 1bb4 Log #9: 1 ops saved to Table #10 OK
-2026/01/30-01:19:39.897 1bb4 Archiving E:\GameJam\Game-Jam\Saved\webcache_6613_1\Default\Site Characteristics Database/000009.log: OK
-2026/01/30-01:19:39.940 1bb4 Table #4: 5 entries OK
-2026/01/30-01:19:39.941 1bb4 Table #7: 2 entries OK
-2026/01/30-01:19:39.941 1bb4 Table #10: 1 entries OK
-2026/01/30-01:19:39.943 1bb4 Archiving E:\GameJam\Game-Jam\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/01/30-01:19:39.993 1bb4 **** Repaired leveldb E:\GameJam\Game-Jam\Saved\webcache_6613_1\Default\Site Characteristics Database; recovered 3 files; 584 bytes. Some data may have been lost. ****
+2026/01/30-01:19:40.003 1bb4 Reusing MANIFEST E:\GameJam\Game-Jam\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
