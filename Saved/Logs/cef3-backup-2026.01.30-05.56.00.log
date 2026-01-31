@@ -1,23 +1,0 @@
-[16812:6548:0130/011917.484:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[11280:19548:0130/011917.484:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[11280:19548:0130/011922.205:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
-[11280:19548:0130/011934.887:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[16812:6548:0130/011938.389:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[16812:7092:0130/012012.431:WARNING:leveldb_database.cc(141)] Unable to open E:\GameJam\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GameJam\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16812:7092:0130/012012.434:WARNING:leveldb_database.cc(141)] Unable to open E:\GameJam\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GameJam\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16812:7092:0130/012012.437:WARNING:leveldb_database.cc(141)] Unable to open E:\GameJam\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GameJam\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16812:7092:0130/012012.440:WARNING:leveldb_database.cc(141)] Unable to open E:\GameJam\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GameJam\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16812:9456:0130/012016.513:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16812:9456:0130/012016.515:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16812:20536:0130/012018.019:WARNING:leveldb_database.cc(141)] Unable to open E:\GameJam\Game-Jam\Saved\webcache_6613_1\Default\GCM Store\Encryption: IO error: E:\GameJam\Game-Jam\Saved\webcache_6613_1\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[16812:1112:0130/012019.880:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[16812:1112:0130/012028.131:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[16812:6548:0130/012029.125:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[16812:6548:0130/012029.125:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[16812:6548:0130/012029.125:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[16812:6548:0130/012029.125:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[16812:1112:0130/012029.138:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[6532:20472:0130/012242.421:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[6532:20472:0130/012242.421:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[16812:1112:0130/023911.500:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[16812:6548:0130/025600.982:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
