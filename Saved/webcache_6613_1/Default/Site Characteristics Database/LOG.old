@@ -1,3 +1,8 @@
-2026/01/31-01:24:52.681 4cf4 Reusing MANIFEST E:\GameJam\Game-Jam\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
-2026/01/31-01:24:52.684 4cf4 Recovering log #12
-2026/01/31-01:24:52.685 4cf4 Reusing old log E:\GameJam\Game-Jam\Saved\webcache_6613_1\Default\Site Characteristics Database/000012.log 
+2026/01/31-11:14:53.678 4c08 Log #12: 6 ops saved to Table #13 OK
+2026/01/31-11:14:53.680 4c08 Archiving C:\Users\alu765\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\Site Characteristics Database/000012.log: OK
+2026/01/31-11:14:53.680 4c08 Table #4: 5 entries OK
+2026/01/31-11:14:53.681 4c08 Table #7: 2 entries OK
+2026/01/31-11:14:53.681 4c08 Table #10: 1 entries OK
+2026/01/31-11:14:53.681 4c08 Table #13: 6 entries OK
+2026/01/31-11:14:53.684 4c08 Archiving C:\Users\alu765\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/01/31-11:14:53.691 4c08 **** Repaired leveldb C:\Users\alu765\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\Site Characteristics Database; recovered 4 files; 809 bytes. Some data may have been lost. ****

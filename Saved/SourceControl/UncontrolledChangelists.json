@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/alu765/Documents/GitHub/Game-Jam/Content/TopDown/Blueprints/Map/Obstacle/BP_Ramp.uasset",
+				"C:/Users/alu765/Documents/GitHub/Game-Jam/Content/TopDown/Blueprints/Door/BP_Door.uasset",
 				"C:/Users/alu765/Downloads/GitHub/Game-Jam/Content/TopDown/Blueprints/Map/TileMaps/BP_TileMap2.uasset",
 				"C:/Users/alu765/Downloads/GitHub/Game-Jam/Content/TopDown/Blueprints/MaskData/DT_AbilityData.uasset",
 				"C:/Users/alu765/Downloads/GitHub/Game-Jam/Content/TopDown/Blueprints/Map/BP_MapGenerator.uasset",
