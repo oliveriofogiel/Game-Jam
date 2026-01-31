@@ -1,15 +1,31 @@
-[5020:14088:0130/163313.880:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[5020:6440:0130/163313.936:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[5020:14088:0130/163313.951:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[5020:12400:0130/163317.186:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5020:12400:0130/163317.287:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5020:12400:0130/163317.290:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5020:12400:0130/163317.292:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5020:4804:0130/163317.866:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5020:4804:0130/163317.868:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1092:5748:0130/163318.476:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-57C5E3644C8399CDCB54044594AD5EFC will be ignored
-[5020:9008:0130/163321.039:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[5020:9008:0130/163321.050:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[5020:9008:0130/163321.130:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[5020:9168:0130/163324.267:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\GCM Store\Encryption: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5020:14088:0130/165046.953:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[14276:12132:0130/225137.433:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14276:11352:0130/225138.036:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[14276:12132:0130/225138.306:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14276:13856:0130/225144.133:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14276:13856:0130/225144.141:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14276:13856:0130/225144.144:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14276:13856:0130/225144.146:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14276:11352:0130/225145.059:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14276:11352:0130/225145.066:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6128:14748:0130/225145.611:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3195C08F2EDB89700550A368624934DF will be ignored
+[14276:8656:0130/225147.292:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\GCM Store\Encryption: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14276:13884:0130/225200.239:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14276:13884:0130/225200.243:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14276:13884:0130/225200.276:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14276:12132:0130/225242.093:ERROR:device_event_log_impl.cc(196)] [22:52:42.083] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[14276:13884:0130/225948.352:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14276:12132:0130/231748.294:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[14276:12132:0130/231753.345:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[14276:12132:0130/231803.411:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[14276:12132:0130/231808.536:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[14276:12132:0130/231813.542:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[14276:12132:0130/231818.542:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[14276:12132:0130/231823.555:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[14276:12132:0130/231828.876:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[14276:12132:0130/231838.937:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[14276:12132:0130/232439.563:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[14276:13884:0130/232948.976:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14276:12132:0130/234812.700:ERROR:device_event_log_impl.cc(196)] [23:48:12.685] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[14276:13884:0131/003924.909:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14276:13884:0131/004450.523:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14276:12132:0131/012133.539:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
