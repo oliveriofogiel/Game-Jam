@@ -1,9 +1,3 @@
-2026/01/31-11:14:53.695 4c08 Reusing MANIFEST C:\Users\alu765\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
-2026/01/31-11:14:53.696 4c08 Compacting 4@0 + 0@1 files
-2026/01/31-11:14:53.700 4c08 Generated table #16@0: 2 keys, 191 bytes
-2026/01/31-11:14:53.700 4c08 Compacted 4@0 + 0@1 files => 191 bytes
-2026/01/31-11:14:53.702 4c08 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/01/31-11:14:53.703 4c08 Delete type=2 #4
-2026/01/31-11:14:53.703 4c08 Delete type=2 #7
-2026/01/31-11:14:53.703 4c08 Delete type=2 #10
-2026/01/31-11:14:53.703 4c08 Delete type=2 #13
+2026/01/31-11:37:39.515 2d24 Reusing MANIFEST C:\Users\alu765\Downloads\GitHub\Game-Jam\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
+2026/01/31-11:37:39.516 2d24 Recovering log #15
+2026/01/31-11:37:39.516 2d24 Reusing old log C:\Users\alu765\Downloads\GitHub\Game-Jam\Saved\webcache_6613_1\Default\Site Characteristics Database/000015.log 
