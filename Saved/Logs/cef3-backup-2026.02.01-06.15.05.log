@@ -1,0 +1,24 @@
+[10300:1212:0201/025557.127:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[10300:1668:0201/025557.181:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[10300:1212:0201/025557.199:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10300:9328:0201/025600.428:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10300:9328:0201/025600.431:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10300:17324:0201/025600.434:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10300:17324:0201/025600.436:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10300:2900:0201/025601.106:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10300:2900:0201/025601.109:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1356:14492:0201/025602.026:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-939340CD49FD71B48F7131701B50338D will be ignored
+[10300:7364:0201/025604.032:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[10300:1212:0201/025604.359:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[10300:1212:0201/025604.359:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[10300:1212:0201/025604.359:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[10300:1212:0201/025604.359:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[10300:7364:0201/025604.363:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[10300:7364:0201/025604.870:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10300:7364:0201/025604.883:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10300:7364:0201/025604.889:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10300:10156:0201/025606.500:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\GCM Store\Encryption: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15832:8300:0201/025814.857:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[15832:8300:0201/025814.858:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[10300:7364:0201/030735.349:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10300:1212:0201/031147.353:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
