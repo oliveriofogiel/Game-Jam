@@ -1,0 +1,24 @@
+[16472:7500:0131/204400.552:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16472:7500:0131/204400.660:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[16472:14968:0131/204400.709:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16472:7500:0131/204400.748:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16472:3060:0131/204403.938:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16472:3060:0131/204403.942:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16472:3060:0131/204403.945:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16472:3060:0131/204403.954:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16472:956:0131/204404.780:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16472:956:0131/204404.782:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12076:10012:0131/204404.989:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9DF16AA2543C7330AAEB47E1F86C0178 will be ignored
+[16472:8868:0131/204406.463:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[16472:7500:0131/204406.580:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[16472:7500:0131/204406.580:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[16472:7500:0131/204406.580:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[16472:7500:0131/204406.580:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[16472:8868:0131/204406.596:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[16472:8868:0131/204409.038:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16472:8868:0131/204409.041:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16472:8868:0131/204409.101:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16472:2136:0131/204410.355:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\GCM Store\Encryption: IO error: C:\Users\olifo\Documents\GitHub\Game-Jam\Saved\webcache_6613_1\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16472:8868:0131/210342.839:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16472:8868:0131/210514.544:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16472:7500:0131/230403.064:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
